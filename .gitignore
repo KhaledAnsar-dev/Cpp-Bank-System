@@ -1,0 +1,31 @@
+# Visual Studio folders
+.vs/
+*.VC.db
+*.VC.opendb
+
+# Build output folders
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Other unnecessary files
+*.log
+*.tmp
+*.bak
+*.pdb
+*.ipch
+*.cache
+*.exe
+*.dll
+*.lib
+*.sdf
+*.opensdf
+
+# VS Code
+.vscode/
+
